@@ -4,6 +4,9 @@
 
 This project presents an end-to-end interactive performance analytics dashboard built in Excel, evaluating the impact of the COVID-19 pandemic and initial recovery trends across the global hotel industry. By comparing **Pre-Pandemic (2019)** metrics against **Recovery Stage (2021)** performance, the dashboard highlights key operational KPIs across continents, sub-regions within Asia-Pacific, and 8 major Asian metropolitan hospitality markets.
 
+<img width="1177" height="539" alt="Screenshot 2026-03-23 192528" src="https://github.com/user-attachments/assets/449db60a-c474-43a1-b486-c2804bd746a5" />
+
+
 The analysis evaluates three core Hospitality Key Performance Indicators (KPIs):
 
 * **Occupancy Rate (Occ %):** Percentage of available rooms occupied.
@@ -34,6 +37,10 @@ The pandemic caused unprecedented disruption across all continents, but recovery
 | **Europe** | 72.2% | 43.3% | **-40.0%** | $125.93 | $121.71 | **-3.4%** | $90.90 | $52.69 | **-42.0%** |
 | **Asia Pacific** | 69.1% | 48.7% | **-29.5%** | $96.58 | $77.71 | **-19.5%** | $66.77 | $37.83 | **-43.3%** |
 
+<img width="1315" height="449" alt="Screenshot 2026-11-07 042140" src="https://github.com/user-attachments/assets/5073cd03-45ff-4f85-82ca-efd7a599aff6" />
+<img width="1285" height="452" alt="Screenshot 2026-11-07 042347" src="https://github.com/user-attachments/assets/5c564842-1bee-4f5a-83b2-42c37ddbe8d5" />
+
+
 #### Key Continental Takeaways:
 
 * **The Americas led the recovery:** Supported by a massive domestic travel market, the Americas retained the highest occupancy (55.8%) and experienced the mildest decline in RevPAR (-18.9%).
@@ -53,6 +60,9 @@ A closer look at the sub-regions within Asia-Pacific reveals clear structural sp
 
 ---
 
+<img width="1315" height="449" alt="Screenshot 2026-11-07 042140" src="https://github.com/user-attachments/assets/2bfa8cc1-9bd4-4ab8-a56f-603cc2e7073a" />
+
+
 ### 3. Market-Level Drilldown: 8 Key Asian Cities
 
 Analysis across 8 major Asian hospitality hubs (*Bangkok, Beijing, Hanoi, Ho Chi Minh City, Hong Kong, Jakarta, Mumbai, Phuket*):
@@ -63,6 +73,9 @@ Analysis across 8 major Asian hospitality hubs (*Bangkok, Beijing, Hanoi, Ho Chi
 
 ---
 
+<img width="1322" height="458" alt="Screenshot 2026-11-07 042249" src="https://github.com/user-attachments/assets/e64cba62-e676-44b4-b0cb-bcb57d6192d7" />
+
+
 ## Core Strategic Insights & Recommendations
 
 1. **Rate Discipline Over Occupancy Chasing:** Regions that maintained pricing power (like Middle East and Australia/Oceania) protected their margins better than markets that heavily discounted rates (like Southeast Asia).
@@ -70,6 +83,10 @@ Analysis across 8 major Asian hospitality hubs (*Bangkok, Beijing, Hanoi, Ho Chi
 3. **Revenue Strategy Realignment:** Hoteliers in heavily impacted regions must shift focus toward domestic staycations, corporate packages, and non-room revenue streams (F&B, events) until international routes fully normalize.
 
 ---
+
+<img width="1313" height="451" alt="Screenshot 2026-11-07 042443" src="https://github.com/user-attachments/assets/1586d3a8-729f-424b-8647-0d30bcbb733b" />
+<img width="1086" height="455" alt="Screenshot 2026-11-07 042322" src="https://github.com/user-attachments/assets/c81ac29f-6852-40ba-997b-9a8c240a027c" />
+
 
 ## Repository Structure
 
