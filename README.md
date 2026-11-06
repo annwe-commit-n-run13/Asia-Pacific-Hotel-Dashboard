@@ -17,7 +17,7 @@ The analysis evaluates three core Hospitality Key Performance Indicators (KPIs):
 * **Interactive Dynamic Dashboards:** Built using Pivot Tables, Slicers, and linked Pivot Charts for interactive filtering and drill-down analysis.
 * **Multi-Tiered Data Granularity:** Structured into three analytical levels: Global/Continental, Asia-Pacific Sub-regions, and Asian City Markets.
 * **Calculated Fields & Metrics:** Custom variance calculations evaluating percentage changes ($\Delta\%$) across Occ %, ADR, and RevPAR between 2019 and 2021.
-* **Structured Data Modeling:** Raw data transformations organized into staging pivot sheets (`Occ`, `ADR`, `RevPAR`, `AsiaSubCont`, `Sheet2`, `Sheet3`).
+* **Structured Data Modeling:** Raw data transformations organized into staging pivot sheets ('Occ', 'ADR', 'RevPAR', 'AsiaSubCont', 'Sheet2', 'Sheet3').
 
 ---
 
@@ -81,8 +81,6 @@ Analysis across 8 major Asian hospitality hubs (*Bangkok, Beijing, Hanoi, Ho Chi
 │   ├── Occ / ADR / RevPAR         # KPI-specific summary pivot sheets
 │   └── Data / AsiaSubCont         # Cleaned source datasets
 └── README.md                      # Project documentation and data story
-
----
 
 ## How to Use the Excel File
 
