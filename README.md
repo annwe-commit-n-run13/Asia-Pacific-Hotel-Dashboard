@@ -73,6 +73,7 @@ Analysis across 8 major Asian hospitality hubs (*Bangkok, Beijing, Hanoi, Ho Chi
 
 ## Repository Structure
 
+```text
 ├── Hotel Dashboard Project.xlsx   # Main Excel file containing raw data, pivot models & dashboards
 │   ├── Final Dashboard            # Complete interactive master dashboard view
 │   ├── DashboardAsiaSub           # Sub-regional Asia-Pacific performance dashboard
@@ -81,6 +82,8 @@ Analysis across 8 major Asian hospitality hubs (*Bangkok, Beijing, Hanoi, Ho Chi
 │   ├── Occ / ADR / RevPAR         # KPI-specific summary pivot sheets
 │   └── Data / AsiaSubCont         # Cleaned source datasets
 └── README.md                      # Project documentation and data story
+
+```
 
 ## How to Use the Excel File
 
